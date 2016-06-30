@@ -1,0 +1,17 @@
+{
+  "name": "flow_react_poly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "flow-bin": "^0.27.0"
+  },
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}

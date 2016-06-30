@@ -1,0 +1,10 @@
+[ignore]
+
+[include]
+
+[libs]
+./flow
+
+[options]
+# https://github.com/facebook/flow/issues/1895
+suppress_type=$FlowIssue
